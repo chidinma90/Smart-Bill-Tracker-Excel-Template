@@ -27,6 +27,7 @@ It automatically calculates due dates, days left, and bill status — all with c
 
   ## Due Dates Column
   • Automatically updates based on Start Date and Frequency (Monthly, Quarterly, Annual, Bi-Annual).
+ 
   • Date format: YYYY/MM/DD (validated to prevent errors).
 
   ## Days Left Column
@@ -47,7 +48,7 @@ It automatically calculates due dates, days left, and bill status — all with c
 
 ## Demo
 
-A demo file and screenshot are available in the `demo/` folder to show how the tracker works in real time.
+A demo file and screenshot are available in the `Bill Tracker.xlsx` and `Bill Tracker Image.jpg` folder respectively to show how the tracker works in real time.
 
 
 ## License & Usage
