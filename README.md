@@ -48,7 +48,7 @@ It automatically calculates due dates, days left, and bill status — all with c
 
 ## Demo
 
-A demo file and screenshot are available in the ![Alt text](Bill Tracker.xlsx) and ![Alt Text](Bill Tracker Image.jpg) folders respectively to show how the tracker works in real time.
+A demo file and screenshot are available in the https://github.com/chidinma90/Smart-Bill-Tracker-Excel/Bill Tracker.xlsx and https://github.com/chidinma90/Smart-Bill-Tracker-Excel/Bill Tracker Image.jpg folders respectively to show how the tracker works in real time.
 
 
 ## License & Usage
